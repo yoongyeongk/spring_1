@@ -10,11 +10,6 @@
 	Hello world!  Spring
 </h1>
 
-<img src="./etc/images/iu1.jpg">
 
-<P>  The time on the server is ${serverTime}. </P>
-
-<a href="./notice/noticeList?name=notice">Go Notice</a>
-<a href="./qna/qnaList?curPage=1">qna</a>
 </body>
 </html>
